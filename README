@@ -3,3 +3,5 @@ These are redesigns of the Linux performance tool maps by [Brendan Gregg](http:/
 The `source/` folder contains a PDF, AI (the originals were made in Illustrator), and SVG of the base diagram.
 
 The other two folders contain copies of the four Linux performance tool maps that try and preserve all of the detail of the originals. You can find them in PNG and PDF form.
+
+See mistakes (because there definitely are some)? Message me on Reddit / bug report / pull request!
